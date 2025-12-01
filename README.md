@@ -22,8 +22,6 @@ I’m currently looking for mid-level **Systems / R&D / Product Development Engi
 
 ## Selected Projects
 
-*(These should match the repositories you pin below.)*
-
 - **Chip Cleaning Station – Prototype → Product (sample code & analysis)**  
   Small, sanitized example of how I would model the data, tests, and build/test flows for turning an accessory from prototype into a shippable product.
 
